@@ -1,0 +1,2 @@
+SglStringUtils
+Copyright 2016 Square Gears Logic
